@@ -1,0 +1,17 @@
+﻿  CONTACT.C
+D:\Users\Administrator\Desktop\C my code\CONTACT\CONTACT.C(22,6): error C2085: “info”: 不在形参表中
+D:\Users\Administrator\Desktop\C my code\CONTACT\CONTACT.C(25,2): error C2061: 语法错误: 标识符“info”
+D:\Users\Administrator\Desktop\C my code\CONTACT\CONTACT.C(27,1): error C2059: 语法错误:“}”
+D:\Users\Administrator\Desktop\C my code\CONTACT\CONTACT.C(29,9): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\Users\Administrator\Desktop\C my code\CONTACT\CONTACT.C(33,22): error C2065: “linknode”: 未声明的标识符
+D:\Users\Administrator\Desktop\C my code\CONTACT\CONTACT.C(33,23): error C2059: 语法错误:“)”
+D:\Users\Administrator\Desktop\C my code\CONTACT\CONTACT.C(41,16): error C2223: “->pnext”的左侧必须指向结构/联合
+D:\Users\Administrator\Desktop\C my code\CONTACT\CONTACT.C(48,25): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\Users\Administrator\Desktop\C my code\CONTACT\CONTACT.C(48,25): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\Users\Administrator\Desktop\C my code\CONTACT\CONTACT.C(48,31): error C2059: 语法错误:“)”
+D:\Users\Administrator\Desktop\C my code\CONTACT\CONTACT.C(49,1): error C2054: 在“head”之后应输入“(”
+D:\Users\Administrator\Desktop\C my code\CONTACT\CONTACT.C(109,6): error C2084: 函数“void menu()”已有主体
+D:\Users\Administrator\Desktop\C my code\CONTACT\CONTACT.C(13): message : 参见“menu”的前一个定义
+D:\Users\Administrator\Desktop\C my code\CONTACT\CONTACT.C(128,17): warning C4013: “AddNewNode”未定义；假设外部返回 int
+D:\Users\Administrator\Desktop\C my code\CONTACT\CONTACT.C(161,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\Administrator\Desktop\C my code\CONTACT\CONTACT.C(245,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据

@@ -1,0 +1,4 @@
+﻿  contactlist.c
+D:\Users\Administrator\Desktop\C my code\contactlist\contactlist.c(41,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\Administrator\Desktop\C my code\contactlist\contactlist.c(125,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  contactlist.vcxproj -> D:\Users\Administrator\Desktop\C my code\contactlist\x64\Debug\contactlist.exe
